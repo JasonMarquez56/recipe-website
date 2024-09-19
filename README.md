@@ -17,10 +17,10 @@ A website that takes in what you have and gives you recipes!
 # Visit https://nodejs.org/en to download and install Nodejs if not already installed
 
 # Clone the repository
-git clone https://github.com/JasonMarquez56/RecipeWebsite
+git clone https://github.com/JasonMarquez56/recipe-website
 
 # Navigate to the project directory
-cd RecipeWebsite
+cd recipe-website
 
 # Host the server locally
 http-server
